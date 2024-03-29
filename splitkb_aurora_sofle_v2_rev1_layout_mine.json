@@ -7,7 +7,7 @@
   "layout": "LAYOUT",
   "layers": [
     [
-      "KC_ESC",
+      "KC_CIRC",
       "KC_1",
       "KC_2",
       "KC_3",
@@ -64,7 +64,7 @@
       "KC_SPC",
       "KC_ENT",
       "MO(2)",
-      "KC_RCTL",
+      "KC_ESC",
       "KC_RALT",
       "KC_RGUI"
     ],
@@ -113,8 +113,8 @@
       "KC_PERC",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_UNDS",
       "KC_ASTR",
+      "KC_UNDS",
       "KC_MINS",
       "KC_HASH",
       "KC_BSLS",
